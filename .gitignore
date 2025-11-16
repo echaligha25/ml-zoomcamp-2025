@@ -1,0 +1,39 @@
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python environment files
+*.env
+*.egg-info/
+dist/
+build/
+
+# Data files (large datasets, outputs)
+data/
+*.csv
+*.parquet
+*.pkl
+*.h5
+
+# Model artifacts
+models/
+*.joblib
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
